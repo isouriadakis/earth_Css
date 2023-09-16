@@ -140,7 +140,7 @@ html::-webkit-scrollbar-track {
     top:0;
 }
 .videoContain{
-    height:270px;
+    height:500px;
 }
 .videoMedia{
     left: 50%;
@@ -200,7 +200,7 @@ html::-webkit-scrollbar-track {
 .mediaContain{
     display: inline-flex;
     width:100%;
-    height:320px;
+    height:500px;
     overflow:hidden;
     margin-left:auto;
     margin-right:auto;
@@ -209,7 +209,7 @@ html::-webkit-scrollbar-track {
 .image{
     max-width: 100%;
     vertical-align: middle;
-    max-height: 320px;
+    max-height: 500px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -218,13 +218,13 @@ html::-webkit-scrollbar-track {
 /* Slideshow container */
 .slideshow-container {
     width: 100%;
-    height: 320px;
+    height: 500px;
     position: relative;
     margin: auto;
   }
 .mySlides{
     width:100%;
-    height:320px;
+    height:500px;
 
 }
   /* Next & previous buttons */
