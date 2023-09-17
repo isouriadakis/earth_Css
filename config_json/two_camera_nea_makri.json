@@ -1,0 +1,11 @@
+{
+    "type": "equirectangular",
+    "minHfov": 50,
+    "maxHfov": 50,
+    "minPitch": 0,
+    "maxPitch": 0,
+    "autoLoad": true,
+    "panorama": "https://isouriadakis.github.io/earth_Css/panorama_jpg/two_camera_nea_makri.jpg",
+    "showZoomCtrl": false,
+    "autoRotate": 5
+}
