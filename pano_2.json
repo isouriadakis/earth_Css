@@ -1,12 +1,11 @@
 {
     "type": "equirectangular",
-    "minHfov": 51,
-    "maxHfov": 51,
+    "minHfov": 50,
+    "maxHfov": 50,
     "minPitch": 0,
     "maxPitch": 0,
     "autoLoad": true,
-    "hotSpotDebug": true,
     "panorama": "https://isouriadakis.github.io/earth_Css/pano_2.jpg",
-	"showZoomCtrl": false,
-	"autoRotate": 5
+    "showZoomCtrl": false,
+    "autoRotate": 5
 }
