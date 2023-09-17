@@ -1,7 +1,7 @@
 {
     "type": "equirectangular",
-    "minHfov": 40,
-    "maxHfov": 40,
+    "minHfov": 50,
+    "maxHfov": 50,
     "minPitch": 0,
     "maxPitch": 0,
     "autoLoad": true,
