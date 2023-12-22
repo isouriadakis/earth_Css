@@ -1,0 +1,7 @@
+{
+    "type": "equirectangular",
+    "autoLoad": true,
+    "panorama": "https://isouriadakis.github.io/earth_Css/panorama_jpg/DJI_20231209110621_0012_D.JPG",
+    "showZoomCtrl": false,
+    "autoRotate": 5
+}
