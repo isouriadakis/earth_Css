@@ -1,8 +1,6 @@
 {
     "type": "equirectangular",
     "autoLoad": true,
-    "minHfov": 50,
-    "maxHfov": 50,
     "panorama": "https://isouriadakis.github.io/earth_Css/panorama_jpg/DJI_0106.JPG",
     "showZoomCtrl": false,
     "autoRotate": 5
